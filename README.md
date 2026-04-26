@@ -1,4 +1,4 @@
-# Maryam Zakare - Cybersecurity Portfolio
+# Maryam Zakare | Cybersecurity Portfolio
 
 Cybersecurity-focused IT professional and Master's student specializing in incident response, cyberattack research, networking, access control, security analysis, digital forensics, penetration testing, cryptography, and Programming Languages Projects. 
 
