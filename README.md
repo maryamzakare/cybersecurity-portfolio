@@ -1,48 +1,39 @@
 # Maryam Zakare | Cybersecurity Portfolio
 
-Cybersecurity-focused IT professional and Master's student specializing in incident response, cyberattack research, networking, access control, security analysis, digital forensics, penetration testing, cryptography, and Programming Languages Projects. 
-
-## Focus Areas
-
-- Incident response
-- Cyberattack research
-- Network security
-- TCP/UDP traffic analysis
-- Access control and IT security support
-- Security analysis
-- Digital forensics
-- Penetration testing
-- Cryptography
-- Python and R programming
+Cybersecurity-focused IT professional and Master's student specializing in incident response, cyberattack research, networking, access control, security analysis, digital forensics, penetration testing, cryptography, Linux security, and Python/R projects.
 
 ## Featured Projects
 
-### Large-Scale Cyberattack Ground Truth Dataset
-Research project focused on organizing large cyber incident datasets involving ransomware, public-sector attacks, affected communities, and attack classification.
+### Incident Response and Threat Hunting
 
-### Cyberattack Mapping and Nearby Impact Analysis
-Research project analyzing cyberattacks across approximately 40 U.S. states and exploring relationships between affected cities, schools, and nearby communities.
+- [My Incident Response Playbook](projects/my-incident-response-playbook.md)
+- [My Cyber Range and Threat Hunting Labs](projects/my-cyber-range-and-threat-hunting-labs.md)
+- [My Cyberattack Dataset Research](projects/my-cyberattack-dataset-research.md)
+- [Cyberattacks I Researched](projects/cyberattacks-i-researched.md)
 
-### Personal Security Plan
-Designed a personal security plan covering device security, hard drives, account protection, MFA, backups, and long-term security roadmaps.
+### Networking and Systems
 
-### Incident Response Playbook
-Created a structured incident response playbook covering triage, containment, recovery, documentation, and lessons learned.
+- [My Computer Networking Projects](projects/my-computer-networking-projects.md)
+- [My Linux Permissions Lab](projects/my-linux-permissions-lab.md)
+- [My Personal Security Plan](projects/my-personal-security-plan.md)
 
-### Computer Networking and TCP/UDP Traffic Analysis
-Completed networking projects focused on TCP, UDP, protocol layers, packet behavior, and authorized lab-based traffic analysis.
+### Digital Forensics and Security Research
 
-### DDoS Attack Research
-Studied DDoS attack behavior using academic research, including analysis of benign and attack traffic.
-
-### AI and Cybersecurity Research Review
-Reviewed research papers about artificial intelligence and its relationship to cybersecurity risks, defenses, and modern digital life.
-
-### Access Control and IT Security Support
-Supported secure access, identity verification, permissions, troubleshooting, and operational security in residential facilities.
+- [My Digital Forensics Work](projects/my-digital-forensics-work.md)
+- [DDoS Attack Detection Research](projects/ddos-attack-detection-research.md)
+- [AI and Cybersecurity Research Presentation](projects/ai-and-cybersecurity-research-presentation.md)
 
 ## Technical Skills
 
+- Incident response
+- Threat hunting
+- Cyberattack research
+- Digital forensics
+- Penetration testing fundamentals
+- Cryptography
+- Network security
+- TCP/UDP analysis
+- Linux permissions and access control
 - Python
 - R
 - Java
@@ -53,12 +44,18 @@ Supported secure access, identity verification, permissions, troubleshooting, an
 - iOS
 - Android Studio
 - Nmap
+- Splunk
+- Elastic Stack
+- Sysinternals
+- PowerShell
+- Bash
 - Kali Linux
 - Metasploit
 - Autopsy
+- WinHex
 - VMware
 - VirtualBox
 
 ## Career Interests
 
-I am interested in cybersecurity analyst, SOC analyst, vulnerability management, incident response, threat intelligence, GRC, IAM, and digital forensics roles.
+I am interested in cybersecurity analyst, SOC analyst, incident response, threat intelligence, vulnerability management, IAM, GRC, digital forensics, and security operations roles.
